@@ -5,10 +5,10 @@ I'm also looking for an internship position related to ML / AI.
 
 Some projects I have been working on:
 
-1. Optimized Parallel Random Forest Algorithm - repo: fast_parallel_random_forest
-2. Humidity Classification Model in R - repo: humidity_level_model
-3. Custom ML Algorithms Implementation - repo: neural_network, knn
-4. Fast Math Operations - repo: math
-5. bzip using Ukkonen, BWT, Huffman, and Elias Encoding - repo:  bzip
-6. Brain Tumor Classification Model- repo: brain_tumor_classification_model
-7. Docx format analyzer - repo: docs_format_checker
+1. [Optimized Parallel Random Forest Algorithm](https://github.com/superleesa/fast_parallel_random_forest)
+2. [Humidity Classification Model in R](https://github.com/superleesa/humidity_level_model)
+3. Custom ML Algorithms Implementation: [neural network](https://github.com/superleesa/neural_network), [kNN](https://github.com/superleesa/knn)
+4. [Fast Math Operations](https://github.com/superleesa/math)
+5. [bzip using Ukkonen, BWT, Huffman, and Elias Encoding](https://github.com/superleesa/bzip)
+6. [Brain Tumor Classification Model- repo: brain_tumor_classification_model](https://github.com/superleesa/brain_tumor_classification_model)
+7. [Docx format analyzer](https://github.com/superleesa/docs_format_checker)
