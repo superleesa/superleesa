@@ -1,6 +1,6 @@
 ### Hi I'm Satoshi 👋
 
-I'm currently working on creating an efficient search and agent system, in the context of Pacman. Kindly check the repository pacman_search_ai, please.
+I'm currently working on creating an efficient search and agent system, in the context of Pacman. Kindly check the repository [pacman_search_ai](https://github.com/superleesa/pacman_search_ai), please.
 I'm also looking for an internship position related to ML / AI.
 
 Some projects I have been working on:
