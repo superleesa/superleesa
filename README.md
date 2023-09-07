@@ -14,3 +14,6 @@ Some projects I have been working on:
 7. [Brain Tumor Classification Model](https://github.com/superleesa/brain_tumor_classification_model)
 8. [Fast Math Operations](https://github.com/superleesa/math)
 9. [Docx format analyzer](https://github.com/superleesa/docs_format_checker)
+
+
+[日本語のポートフォリオはこちらから](https://superleesa.github.io/portfolio_japanese/)
